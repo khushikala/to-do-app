@@ -4,8 +4,6 @@
 >
 > ![todo](https://github.com/user-attachments/assets/01b92feb-7bbe-4ac5-ba88-47f37e57b6ac)
 
-
-
 ## Built With
 > - HTML
 > - CSS
