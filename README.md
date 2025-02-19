@@ -1,5 +1,5 @@
 # To Do App
-> This a To-do app in wich the user can add, remove and edit tasks.
+> This is a To-do app in wich the user can add, remove and edit tasks.
 > The app was build using HTML, CSS, and JavaScript.
 
 
